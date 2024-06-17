@@ -230,6 +230,7 @@ body{
       height: 15px;
       position: absolute;
       margin: 15px;
+      display: none;
     }
     main .answer-screen ul li input:nth-child(1):checked ~ #lab1,
     main .answer-screen ul li input:nth-child(1):checked ~ #lab2,
